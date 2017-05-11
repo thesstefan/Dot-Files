@@ -1,0 +1,65 @@
+!Gruvbox
+
+!! Black
+*color0:        #282828
+*color8:        #32302f
+
+!! Red
+*color1:        #CC241D
+*color9:        #FB4934
+
+!! Green
+*color2:        #98971A
+*color10:       #B8BB26
+
+!! Yellow
+*color3:        #D79921
+*color11:       #FABD2F
+
+!! Blue
+*color4:        #458588
+*color12:       #83A598
+
+!! Purple
+*color5:        #B16286
+*color13:       #D3869B
+
+!! Aqua
+*color6:        #689D6A
+*color14:       #8EC07C
+
+!! Gray
+*color7:        #A89984
+*color15:       #928374
+
+!! Orange
+*orange:        #D65D0E
+*orange_2:      #FE8019
+
+!! Foregrounds
+*foreground:    #EBDBB2
+
+*fg_0:          #FBF1C7
+*fg_1:          #EBDBB2
+*fg_2:          #D5C4A1
+*fg_3:          #BDAE93
+*fg_4:          #A89984
+
+!! Backgrounds
+*background:    #282828
+
+*bg_0_h:        #1d2021
+*bg_0_s:        #32302F
+
+*bg_0:          #282828
+*bg_1:          #3C3836
+*bg_2:          #504945
+*bg_3:          #665C54
+*bg_4:          #7C6F64
+
+URxvt.scrollBar:        false
+URxvt.saveLines:        15000
+
+URxvt.font.letterSpace: -1
+URxvt.font:xft:Iosevka Medium:size=10:antialias=true
+URxvt.boldFont:xft:Iosevka Medium:bold:size=10:antialias=true
